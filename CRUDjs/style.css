@@ -1,0 +1,100 @@
+                    .form-container {
+                        border-style: solid;
+                        border-color: black;
+                        padding: 1rem;
+                        background-color: blue;
+                    }
+                    
+                    .data-container {
+                        background-color: white;
+                        border-style: solid;
+                        border-color: black;
+                    }
+                    
+                    .data-container aside {
+                        display: flex;
+                        justify-content: center;
+                        border-bottom: solid black;
+                    }
+                    
+                    .data-container aside button {
+                        margin: 1rem;
+                        background-color: red;
+                        border-style: solid;
+                        border-color: black;
+                    }
+                    
+                    .data-container aside button:hover {
+                        background-color: yellow;
+                    }
+                    
+                    .data-container button {
+                        border-radius: 5px;
+                        color: yellow;
+                        margin: 1rem;
+                    }
+                    
+                    body {
+                        background-color: grey;
+                    }
+                    
+                    h1 {
+                        display: flex;
+                        justify-content: center;
+                    }
+                    
+                    h3 {
+                        display: flex;
+                        justify-content: center;
+                        margin: 1rem;
+                    }
+                    
+                    button {
+                        cursor: pointer;
+                        border-style: solid;
+                        border-color: black;
+                        border-radius: 5px;
+                        background-color: red;
+                        color: yellow;
+                        margin-left: 1rem;
+                    }
+                    
+                    button:hover {
+                        background-color: yellow;
+                        color: red;
+                    }
+                    
+                    input {
+                        border-style: solid;
+                        border-color: black;
+                    }
+                    
+                    .title {
+                        text-align: center;
+                        background-color: white;
+                        border-style: solid;
+                        border-color: black;
+                        color: black;
+                        display: flex;
+                        justify-content: center;
+                    }
+                    
+                    .form2 {
+                        display: flex;
+                        justify-content: center;
+                    }
+                    
+                    .form {
+                        display: flex;
+                        justify-content: center;
+                        margin-bottom: .5rem;
+                    }
+                    
+                    .f1 {
+                        background-color: white;
+                        border-style: solid;
+                        margin: 1rem;
+                        padding: 1rem;
+                        flex-direction: column;
+                        justify-content: center;
+                    }
